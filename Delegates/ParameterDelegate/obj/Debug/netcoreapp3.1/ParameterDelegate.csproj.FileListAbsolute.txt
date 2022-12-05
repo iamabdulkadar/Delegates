@@ -1,0 +1,14 @@
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.exe
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.deps.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.runtimeconfig.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.runtimeconfig.dev.json
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\bin\Debug\netcoreapp3.1\ParameterDelegate.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.csproj.AssemblyReference.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.AssemblyInfoInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.AssemblyInfo.cs
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.csproj.CoreCompileInputs.cache
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.dll
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.pdb
+C:\Users\abdul.kr\Desktop\C# Advanced\Training\Delegates\ParameterDelegate\obj\Debug\netcoreapp3.1\ParameterDelegate.genruntimeconfig.cache
